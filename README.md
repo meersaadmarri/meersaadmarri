@@ -1,36 +1,44 @@
-<!-- ================= HERO SECTION ================= -->
-
-<h1 align="center">
-  Hi 👋 I'm Meer Saad Marri
-</h1>
+<h1 align="center">Hi 👋 I'm Meer Saad Marri</h1>
 
 <h3 align="center">
-  🚀 Full Stack Developer | 💙 Flutter Specialist | 🧠 AI Systems Builder
+🚀 Software Developer | Flutter • AI • Web
 </h3>
 
 <p align="center">
-  I design intelligent digital products that combine clean UI, scalable backend systems, and powerful AI logic.
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/MeerSaadMarri">
-    <img src="https://img.shields.io/badge/LinkedIn-MeerSaadMarri-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://x.com/MeerSaadMarri">
-    <img src="https://img.shields.io/badge/X-@MeerSaadMarri-black?style=for-the-badge&logo=x"/>
-  </a>
-  <a href="mailto:meersaadmarri@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Flutter+Mobile+Specialist;AI+Based+Systems+Builder;Clean+Code+%7C+Performance+%7C+Scalability" />
 </p>
 
 ---
 
-# 🧠 Who Am I?
+## 🧠 About Me
 
-```yaml
-Name: Meer Saad Marri
-Role: Full Stack Engineer
-Primary Stack: Flutter + AI + Scalable Backends
-Specialty: Building smart products from idea to deployment
-Experience Focus: Startups, AI Apps, Real-time Systems
+- 💻 5+ Years Development Experience  
+- 📱 Specialized in Flutter Apps  
+- 🌐 Strong Backend & Web Architecture  
+- ⚡ Focused on Clean Code & Performance  
+- 🚀 Building Real-World Scalable Products  
+
+---
+
+## 🛠 Tech Stack
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=flutter,dart,python,react,nextjs,laravel,fastapi,mysql,mongodb,docker,firebase,aws" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=meersaadmarri&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=meersaadmarri&theme=tokyonight&hide_border=true" height="160"/>
+</p>
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/meersaadmarri/meersaadmarri/output/github-contribution-grid-snake-dark.svg" />
+</p>
