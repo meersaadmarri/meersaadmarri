@@ -1,39 +1,19 @@
-<!-- ================== HERO ================== -->
-
-<h1 align="center">⚡ Meer Saad Marri ⚡</h1>
+<!-- ================= HERO GLASS BANNER ================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Flutter+Architect;AI+Systems+Engineer;Building+Smart+Scalable+Apps;Clean+UI+%2B+Powerful+Backend+Logic" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24,30&height=200&section=header&text=Meer%20Saad%20Marri&fontSize=45&fontAlignY=40&desc=Flutter%20Architect%20•%20AI%20Engineer%20•%20System%20Builder&descAlignY=65&animation=fadeIn" />
 </p>
 
 <p align="center">
-  🚀 Crafting Intelligent Digital Products from Pakistan
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/MeerSaadMarri">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="mailto:meersaadmarri@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://x.com/MeerSaadMarri">
-    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=22&duration=2500&pause=800&color=00F5FF&center=true&vCenter=true&width=750&lines=Designing+Intelligent+Systems;Building+Scalable+Digital+Products;Flutter+%2B+AI+Hybrid+Apps;Performance+Focused+Architecture" />
 </p>
 
 ---
 
-<!-- ================== WAVE DIVIDER ================== -->
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0088FF&height=120&section=header"/>
-
----
-
-# 🧠 About Me
+## ⚡ Digital Identity
 
 ```yaml
 Name: Meer Saad Marri
-Role: Full Stack Developer
-Primary Focus: Flutter + AI
-Passion: Building Scalable Intelligent Systems
+Stack: Flutter | AI | Backend Systems
+Focus: Intelligent + Scalable Products
+Philosophy: Minimal Design. Maximum Impact.
