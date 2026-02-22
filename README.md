@@ -1,44 +1,39 @@
-<h1 align="center">Hi 👋 I'm Meer Saad Marri</h1>
+<!-- ================== HERO ================== -->
 
-<h3 align="center">
-🚀 Software Developer | Flutter • AI • Web
-</h3>
+<h1 align="center">⚡ Meer Saad Marri ⚡</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=39FF14&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Flutter+Mobile+Specialist;AI+Based+Systems+Builder;Clean+Code+%7C+Performance+%7C+Scalability" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFAA&center=true&vCenter=true&width=800&lines=Full+Stack+Developer;Flutter+Architect;AI+Systems+Engineer;Building+Smart+Scalable+Apps;Clean+UI+%2B+Powerful+Backend+Logic" />
 </p>
-
----
-
-## 🧠 About Me
-
-- 💻 5+ Years Development Experience  
-- 📱 Specialized in Flutter Apps  
-- 🌐 Strong Backend & Web Architecture  
-- ⚡ Focused on Clean Code & Performance  
-- 🚀 Building Real-World Scalable Products  
-
----
-
-## 🛠 Tech Stack
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=flutter,dart,python,react,nextjs,laravel,fastapi,mysql,mongodb,docker,firebase,aws" />
-</p>
-
----
-
-## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=meersaadmarri&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=meersaadmarri&theme=tokyonight&hide_border=true" height="160"/>
+  🚀 Crafting Intelligent Digital Products from Pakistan
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/MeerSaadMarri">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:meersaadmarri@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://x.com/MeerSaadMarri">
+    <img src="https://img.shields.io/badge/X-Follow-black?style=for-the-badge&logo=x"/>
+  </a>
 </p>
 
 ---
 
-## 🐍 Contribution Snake
+<!-- ================== WAVE DIVIDER ================== -->
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/meersaadmarri/meersaadmarri/output/github-contribution-grid-snake-dark.svg" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFAA,100:0088FF&height=120&section=header"/>
+
+---
+
+# 🧠 About Me
+
+```yaml
+Name: Meer Saad Marri
+Role: Full Stack Developer
+Primary Focus: Flutter + AI
+Passion: Building Scalable Intelligent Systems
