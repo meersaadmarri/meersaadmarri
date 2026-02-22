@@ -1,82 +1,60 @@
-<!-- ======================== FUTURE CORE HEADER ======================== -->
+<!-- ====================== HERO ====================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=260&text=MEER%20SAAD%20MARRI&fontSize=42&color=0:0f0c29,50:302b63,100:24243e&stroke=00F5FF&animation=fadeIn&desc=Flutter%20Architect%20•%20AI%20Systems%20Engineer%20•%20Full%20Stack%20Builder&descAlignY=70"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:111111,100:1f1f1f&height=180&section=header&text=Meer%20Saad%20Marri&fontSize=38&fontColor=ffffff&animation=fadeIn&desc=Full%20Stack%20Engineer%20•%20Flutter%20Specialist%20•%20AI%20Systems%20Architect&descAlignY=65&descSize=14"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=2200&pause=700&color=00F5FF&center=true&vCenter=true&width=900&lines=Booting+Neural+Interface...;Initializing+Flutter+Engine...;Connecting+Cloud+Nodes...;Deploying+AI+Modules...;System+Status:+ONLINE+⚡" />
-</p>
-
----
-
-<!-- ======================== GLASS INFO PANEL ======================== -->
-
-```bash
-> system.profile --read
-
-Name        : Meer Saad Marri
-Role        : Full Stack AI Engineer
-Primary     : Flutter + Intelligent Systems
-Specialty   : Scalable Hybrid Architectures
-Philosophy  : Minimal Surface. Powerful Core.
-Location    : Pakistan 🌍
-```
-
----
-
-<!-- ======================== CAPABILITIES MATRIX ======================== -->
-
-## 🧠 CAPABILITY MATRIX
-
-```diff
-+ Cross-Platform Mobile Architecture (Flutter)
-+ AI & Automation Integration
-+ Real-Time WebSocket Infrastructure
-+ Backend Performance Engineering
-+ Startup-Ready MVP Development
-+ Clean UI + Deep Logic Engineering
-```
-
----
-
-<!-- ======================== TECH GRID ======================== -->
-
-## ⚙️ TECH GRID
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,laravel,react,nextjs,mongodb,postgres,docker,firebase,aws&perline=6"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=20&duration=3000&pause=1200&color=9CA3AF&center=true&vCenter=true&width=750&lines=Building+Scalable+Digital+Products;Engineering+Intelligent+Systems;Designing+Clean+%26+High-Performance+Applications" />
 </p>
 
 ---
 
-<!-- ======================== LIVE METRICS ======================== -->
+## Profile
 
-## 📊 LIVE SYSTEM METRICS
+Full Stack Engineer focused on building scalable, high-performance digital products.
+
+I specialize in Flutter-based applications, intelligent backend systems, and AI-driven integrations.  
+My work emphasizes clean architecture, performance optimization, and long-term scalability.
+
+---
+
+## Core Expertise
+
+- Cross-platform Mobile Architecture (Flutter)
+- Backend Engineering (FastAPI, Laravel)
+- AI & Intelligent System Integration
+- Real-time Systems & API Design
+- Cloud Deployment & DevOps Practices
+- Product-focused Engineering
+
+---
+
+## Technology Stack
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=meersaadmarri&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=meersaadmarri&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=meersaadmarri&theme=react-dark&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,fastapi,laravel,react,nextjs,mongodb,postgres,docker,aws,firebase&theme=light"/>
 </p>
 
 ---
 
-<!-- ======================== SNAKE FLOW ======================== -->
-
-## 🐍 CONTRIBUTION FLOW
+## GitHub Analytics
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/meersaadmarri/meersaadmarri/output/github-contribution-grid-snake-dark.svg"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=meersaadmarri&show_icons=true&theme=default&hide_border=true"/>
+  <img height="160" src="https://streak-stats.demolab.com?user=meersaadmarri&theme=default&hide_border=true"/>
 </p>
 
 ---
 
-<!-- ======================== FOOTER WAVE ======================== -->
+## Contribution Activity
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:24243e,100:302b63&section=footer"/>
+  <img src="https://raw.githubusercontent.com/meersaadmarri/meersaadmarri/output/github-contribution-grid-snake.svg"/>
+</p>
+
+---
+
+<p align="center">
+  <sub>Focused on building intelligent, scalable systems with long-term impact.</sub>
 </p>
